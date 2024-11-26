@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\bin\Debug\net8.0\ındex1.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\bin\Debug\net8.0\ındex1.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\bin\Debug\net8.0\ındex1.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\bin\Debug\net8.0\ındex1.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\bin\Debug\net8.0\ındex1.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\refint\ındex1.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ındex1.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex1\ındex1\obj\Debug\net8.0\ref\ındex1.dll

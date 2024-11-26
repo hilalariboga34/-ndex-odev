@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\bin\Debug\net8.0\ındex3.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\bin\Debug\net8.0\ındex3.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\bin\Debug\net8.0\ındex3.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\bin\Debug\net8.0\ındex3.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\bin\Debug\net8.0\ındex3.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\refint\ındex3.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ındex3.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ındex3\ındex3\obj\Debug\net8.0\ref\ındex3.dll
